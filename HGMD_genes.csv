@@ -1,0 +1,299 @@
+﻿gene,trait
+ALAD,Amyotrophic lateral sclerosis
+ATXN2,Amyotrophic lateral sclerosis
+ALS2,Amyotrophic lateral sclerosis
+ANG,Amyotrophic lateral sclerosis
+APEX1,Amyotrophic lateral sclerosis
+C9orf72,Amyotrophic lateral sclerosis
+CDH13,Amyotrophic lateral sclerosis
+CHCHD10,Amyotrophic lateral sclerosis
+CHMP2B,Amyotrophic lateral sclerosis
+CHRNA4,Amyotrophic lateral sclerosis
+CNOT1,Amyotrophic lateral sclerosis
+CRYM,Amyotrophic lateral sclerosis
+DAO,Amyotrophic lateral sclerosis
+DCTN1,Amyotrophic lateral sclerosis
+EWSR1,Amyotrophic lateral sclerosis
+FBXO7,Amyotrophic lateral sclerosis
+FIG4,Amyotrophic lateral sclerosis
+FUS,Amyotrophic lateral sclerosis
+GLE1,Amyotrophic lateral sclerosis
+GRN,Amyotrophic lateral sclerosis
+HNRNPA1,Amyotrophic lateral sclerosis
+HNRNPA2B1,Amyotrophic lateral sclerosis
+HNRNPD,Amyotrophic lateral sclerosis
+LUM,Amyotrophic lateral sclerosis
+MATR3,Amyotrophic lateral sclerosis
+NEFH,Amyotrophic lateral sclerosis
+NIPA1,Amyotrophic lateral sclerosis
+OPTN,Amyotrophic lateral sclerosis
+PFN1,Amyotrophic lateral sclerosis
+PON1,Amyotrophic lateral sclerosis
+PON2,Amyotrophic lateral sclerosis
+PON3,Amyotrophic lateral sclerosis
+PRPH,Amyotrophic lateral sclerosis
+PSEN1,Amyotrophic lateral sclerosis
+SETX,Amyotrophic lateral sclerosis
+SMN1,Amyotrophic lateral sclerosis
+SOD1,Amyotrophic lateral sclerosis
+SPAST,Amyotrophic lateral sclerosis
+SPG11,Amyotrophic lateral sclerosis
+SQSTM1,Amyotrophic lateral sclerosis
+SS18L1,Amyotrophic lateral sclerosis
+TAF15,Amyotrophic lateral sclerosis
+TARDBP,Amyotrophic lateral sclerosis
+TBK1,Amyotrophic lateral sclerosis
+TUBA4A,Amyotrophic lateral sclerosis
+UBQLN2,Amyotrophic lateral sclerosis
+VAPB,Amyotrophic lateral sclerosis
+VCP,Amyotrophic lateral sclerosis
+VEGFA,Amyotrophic lateral sclerosis
+CD33,Amyotrophic lateral sclerosis
+COL19A1,Amyotrophic lateral sclerosis
+HSPB1,Amyotrophic lateral sclerosis
+SIGMAR1,Amyotrophic lateral sclerosis
+ARHGEF28,Amyotrophic lateral sclerosis
+SRCAP,Amyotrophic lateral sclerosis
+NAIP,Amyotrophic lateral sclerosis
+CHGB,Amyotrophic lateral sclerosis
+DPYSL3,Amyotrophic lateral sclerosis
+EPHA4,Amyotrophic lateral sclerosis
+ERBB4,Amyotrophic lateral sclerosis
+P4HB,Amyotrophic lateral sclerosis
+PDIA3,Amyotrophic lateral sclerosis
+PARK7,Amyotrophic lateral sclerosis
+TRPM2,Amyotrophic lateral sclerosis
+KIFAP3,Amyotrophic lateral sclerosis
+ZNF512B,Amyotrophic lateral sclerosis
+CACNA1A,Cognitive decline
+AFF4,Cognitive decline
+MAPT,Cognitive decline
+PGM3,Cognitive decline
+SYT1,Cognitive decline
+TTI2,Cognitive decline
+ANKRD11,Cognitive decline
+ZNF407,Cognitive decline
+DMD,Cognitive decline
+PRNP,Cognitive decline
+ATRNL1,Cognitive decline
+CDKL5,Cognitive decline
+GPHN,Cognitive decline
+NRXN1,Cognitive decline
+TBC1D24,Cognitive decline
+SCN1A,Cognitive decline
+L1CAM,Cognitive decline
+MECP2,Cognitive decline
+CHD8,Cognitive decline
+JARID2,Cognitive decline
+SGCE,Cognitive decline
+TOP3B,Cognitive decline
+YWHAE,Cognitive decline
+ZNF778,Cognitive decline
+CHD7,Cognitive decline
+MEF2C,Cognitive decline
+CHRNA7,Cognitive decline
+GRIN2A,Cognitive decline
+APP,Dementia
+PRNP,Dementia
+PSEN1,Dementia
+PSEN2,Dementia
+TARDBP,Dementia
+TWNK,Dementia
+CHCHD10,Dementia
+CHMP2B,Dementia
+GRN,Dementia
+MAPT,Dementia
+PLD3,Dementia
+TREM2,Dementia
+UBQLN2,Dementia
+C9orf72,Dementia
+DCTN1,Dementia
+DNMT1,Dementia
+FUS,Dementia
+GBA,Dementia
+ITM2B,Dementia
+PRKN,Dementia
+PINK1,Dementia
+SNCB,Dementia
+OTUD4,Dementia
+RNF216,Dementia
+PLA2G6,Dementia
+PRKAR1B,Dementia
+SERPINI1,Dementia
+TMEM106B,Dementia
+ATP13A2,Dementia
+SYK,Dementia
+TNFSF14,Dementia
+SNCA,Dementia
+APBB1,Dementia
+SHANK3,Dementia
+ATXN2,Dementia
+VLDLR,Dementia
+CHCHD10,Frontotemporal dementia
+CHMP2B,Frontotemporal dementia
+GRN,Frontotemporal dementia
+MAPT,Frontotemporal dementia
+PLD3,Frontotemporal dementia
+PSEN1,Frontotemporal dementia
+TREM2,Frontotemporal dementia
+UBQLN2,Frontotemporal dementia
+TARDBP,Frontotemporal dementia
+C9orf72,Frontotemporal dementia
+FUS,Frontotemporal dementia
+NPC2,Frontotemporal dementia
+PRNP,Frontotemporal dementia
+PSEN2,Frontotemporal dementia
+SQSTM1,Frontotemporal dementia
+SIGMAR1,Frontotemporal dementia
+TMEM106B,Frontotemporal dementia
+ATXN2,Frontotemporal dementia
+APTX,Multiple system atrophy
+COQ2,Multiple system atrophy
+ATXN2,Multiple system atrophy
+TBP,Multiple system atrophy
+LRRK2,Multiple system atrophy
+ATP13A2,Neuronal ceroid lipofuscinosis
+CLN5,Neuronal ceroid lipofuscinosis
+CLN6,Neuronal ceroid lipofuscinosis
+CLN8,Neuronal ceroid lipofuscinosis
+CTSD,Neuronal ceroid lipofuscinosis
+KCTD7,Neuronal ceroid lipofuscinosis
+TPP1,Neuronal ceroid lipofuscinosis
+CLN3,Neuronal ceroid lipofuscinosis
+PPT1,Neuronal ceroid lipofuscinosis
+DNAJC5,Neuronal ceroid lipofuscinosis
+MFSD8,Neuronal ceroid lipofuscinosis
+NEDD9,Parkinson's disease
+TRPM2,Parkinson's disease
+GBA,Parkinson's disease
+ABCA7,Parkinson's disease
+ALS2,Parkinson's disease
+ANG,Parkinson's disease
+APP,Parkinson's disease
+ATP13A2,Parkinson's disease
+CR1,Parkinson's disease
+DCTN1,Parkinson's disease
+DNAJC13,Parkinson's disease
+EEF1D,Parkinson's disease
+EIF4G1,Parkinson's disease
+FBXO7,Parkinson's disease
+FTH1,Parkinson's disease
+FUS,Parkinson's disease
+GCH1,Parkinson's disease
+GIGYF2,Parkinson's disease
+HSPA9,Parkinson's disease
+HTRA2,Parkinson's disease
+LRRK1,Parkinson's disease
+LRRK2,Parkinson's disease
+MAPT,Parkinson's disease
+NDUFV2,Parkinson's disease
+NEFM,Parkinson's disease
+NME8,Parkinson's disease
+NPC1,Parkinson's disease
+NR4A2,Parkinson's disease
+PRKN,Parkinson's disease
+PARK7,Parkinson's disease
+PARL,Parkinson's disease
+PINK1,Parkinson's disease
+PITX3,Parkinson's disease
+PLA2G6,Parkinson's disease
+PLXNA4,Parkinson's disease
+PTK2B,Parkinson's disease
+SETX,Parkinson's disease
+SLC41A1,Parkinson's disease
+SMPD1,Parkinson's disease
+SNCA,Parkinson's disease
+SNCAIP,Parkinson's disease
+SORL1,Parkinson's disease
+SPG11,Parkinson's disease
+TREM2,Parkinson's disease
+UCHL1,Parkinson's disease
+VPS35,Parkinson's disease
+ACMSD,Parkinson's disease
+ABCB1,Parkinson's disease
+ATG5,Parkinson's disease
+ATG7,Parkinson's disease
+GLA,Parkinson's disease
+LAMP2,Parkinson's disease
+SIRT1,Parkinson's disease
+PRNP,Parkinson's disease
+C9orf72,Parkinson's disease
+TBP,Parkinson's disease
+SLC6A3,Parkinson's disease
+PSEN2,Parkinson's disease
+ADH1C,Parkinson's disease
+BDNF,Parkinson's disease
+CYP2D6,Parkinson's disease
+MAOB,Parkinson's disease
+CHRNB3,Parkinson's disease
+HMOX2,Parkinson's disease
+HSPA1A,Parkinson's disease
+IL1B,Parkinson's disease
+NQO2,Parkinson's disease
+DRD4,Parkinson's disease
+FMR1,Parkinson's disease
+POLG,Parkinson's disease
+GRN,Parkinson's disease
+ZFYVE26,Parkinson's disease
+CHCHD2,Parkinson's disease
+ATXN2,Parkinson's disease
+GLUD2,Parkinson's disease
+PACRG,Parkinson's disease
+MTX1,Parkinson's disease
+RAB29,Parkinson's disease
+DBH,Parkinson's disease
+FGF20,Parkinson's disease
+GAK,Parkinson's disease
+HLA-DRA,Parkinson's disease
+ASCL1,Parkinson's disease
+USP24,Parkinson's disease
+GSK3B,Parkinson's disease
+ASAH1,Spinal muscular atrophy
+BICD2,Spinal muscular atrophy
+SMN2,Spinal muscular atrophy
+BSCL2,Spinal muscular atrophy
+FBXO38,Spinal muscular atrophy
+DYNC1H1,Spinal muscular atrophy
+GARS1,Spinal muscular atrophy
+LMNA,Spinal muscular atrophy
+SETX,Spinal muscular atrophy
+SMN1,Spinal muscular atrophy
+NAIP,Spinal muscular atrophy
+EXOSC8,Spinal muscular atrophy
+IGHMBP2,Spinal muscular atrophy
+LAS1L,Spinal muscular atrophy
+TRPV4,Spinal muscular atrophy
+UBA1,Spinal muscular atrophy
+VRK1,Spinal muscular atrophy
+AFG3L2,Spinocerebellar ataxia
+ANO10,Spinocerebellar ataxia
+TTC19,Spinocerebellar ataxia
+CACNA1A,Spinocerebellar ataxia
+EEF2,Spinocerebellar ataxia
+ELOVL4,Spinocerebellar ataxia
+ELOVL5,Spinocerebellar ataxia
+GJB1,Spinocerebellar ataxia
+ITPR1,Spinocerebellar ataxia
+KCNC3,Spinocerebellar ataxia
+KCND3,Spinocerebellar ataxia
+PDYN,Spinocerebellar ataxia
+POLG,Spinocerebellar ataxia
+PRKCG,Spinocerebellar ataxia
+SPTBN2,Spinocerebellar ataxia
+SYT14,Spinocerebellar ataxia
+TDP1,Spinocerebellar ataxia
+TGM6,Spinocerebellar ataxia
+TMEM240,Spinocerebellar ataxia
+TPP1,Spinocerebellar ataxia
+ATXN7,Spinocerebellar ataxia
+CNTN4,Spinocerebellar ataxia
+TTBK2,Spinocerebellar ataxia
+FGF14,Spinocerebellar ataxia
+BEAN1,Spinocerebellar ataxia
+ATXN1,Spinocerebellar ataxia
+ATXN10,Spinocerebellar ataxia
+ATXN2,Spinocerebellar ataxia
+ATXN8,Spinocerebellar ataxia
+ATXN8OS,Spinocerebellar ataxia
+NOP56,Spinocerebellar ataxia
+PPP2R2B,Spinocerebellar ataxia

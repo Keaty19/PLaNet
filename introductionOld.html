@@ -1,0 +1,54 @@
+<h3>PLaNet - Phenotypic Linkage Network Viewing Tool</h3>
+
+Welcome to PLaNet, a web interface for the display, manipulation and construction of Phenotypic Linkage Networks.
+
+
+<h4>Example Dataset</h4>
+
+PLaNet contains a number of pre-built Phenotypic Linkage Networks along with associated statistical analysis results. Datasets that are included in PLaNet:
+
+    <li>General PLN: </li>
+    	<ul>
+        	<li>Coexpression Gene-Set Enrichment (coexpr_gse) </li>
+        	<li>Semantic Gene Ontology Analysis for Biological Process (sem_goabp) </li>
+        	<li>Set 9 Genes (s9_genes) </li>
+        	<li>Parkinson's Disease Differential Expression 1 (pd_de_1) </li>
+    	</ul>
+ <h5>Gene Visualisation</h5>
+
+PLaNet allows for the display of specific subsets of genes within the Phenotypic Linkage Network, either uploaded manually by the user or via the selection of a pre-curated example gene set.
+
+    <li>User Upload and Search: </li>
+    	<ul>
+        	<li>Selecting this button will enable the user to manually search for genes (up to 30, comma seperated), using the text box that appears, within the currently selected dataset.</li>
+    		<li>Select Gene Set: </li>
+        	<li>PLaNet contains a number of curated example gene lists (PD1, PD2, AD1, AD2) that can be searched for when you select the 'Select Gene Set' option.</li>
+        	<li>Selecting 'None' will display the whole, unsubsetted dataset that you've selected.</li>
+		</ul>    
+    <li>Select Number of Node Neighbours: </li>
+    	<ul>
+    		<li>When visualising a subset of genes within the Phenotypic Linkage Network, PLaNet also also allows you to select the degree of seperation between the visualised genes and those with a direct relationship (the 'neighbour' of that node'.</li>
+    		<li>Operating the slider will allow you to select the degree of 'Node Neighbours' to the visualised set of genes (selecting 0 will just show the visualised genes with no neighbours).</li>
+		</ul>
+
+<h5>Phenotypic Linkage Network</h5>
+
+This is the tool for viewing the Phenotypic Linkage Network datasets, using the visNetwork network plotting tool (https://github.com/datastorm-open/visNetwork).
+
+	<li>Nodes: </li>
+		<ul>
+			<li>'Nodes' are the singular entities that are plotted to the network. Depending on the type of node plotted, the colour, shape and annotations for each of these points may change.</li>
+		</ul>
+	<li>Edges: </li>
+		<ul>
+			<li>The 'Edges' of the network, more commonly referred to as the 'Relationships' between the nodes, are lines that show an interaction, association or weighting between these two points in the dataset. The strength of these edges determines the weight of the lines, and the dataset they have come from determines the colour: These can be viewed by hovering over the edges to view the annotations.</li>
+		</ul>
+	<li>Number of Points to Display: </li>
+		<ul>
+			<li>As part of the viewer is a slider that allows for the selection of how many points you wish to display in the network. Please note, a greater number of nodes selected to display will mean the network will take longer to load and display.</li>
+		</ul>
+<h5>Phenotypic Linkage Network Selection</h5>
+
+This is where you can select which of the Phenotypic Linkage Networks you want to display in the dataset. If none are selected, nothing will be plotted. If all are selected, then the whole General PLN dataset will be available to the Phenotypic Linkage Network viewer.
+
+<h4>References</h4>
